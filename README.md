@@ -1,6 +1,3 @@
-# Learning-Surrogates-for-Offline-Black-Box-Optimization-via-Gradient-Matching
-This is the official implementation of the paper "Learning Surrogates for Offline Black-Box Optimization via Gradient Matching" published in ICML 2024
-
 # Learning Surrogates for Offline Black-Box Optimization via Gradient Matching
 
 Welcome to the official implementation of our paper "Learning Surrogates for Offline Black-Box Optimization via Gradient Matching", published in ICML 2024.
